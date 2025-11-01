@@ -137,30 +137,10 @@ Eric Zimmerman is widely considered one of the most influential contributors in 
 
 ## Workshop Structure
 
-This workshop is part of the **FSEC-SS Pre BOH (Pre-Briefing of Hacks)** series, providing:
-
 - Hands-on demonstrations and tutorials
 - Real-world log analysis scenarios
 - Practical challenges to test your skills
 - AI-enhanced analysis techniques
-
-## Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to submit issues or pull requests.
-
-## About FSEC-SS
-
-FSEC-SS (Forensics and Security Study Sessions) provides practical, hands-on workshops for security professionals and enthusiasts to develop their digital forensics and incident response skills.
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-For questions or feedback about this workshop, please reach out through GitHub issues or contact Eric Hendryani (Cofastic) directly.
-
----
 
 **Note:** This workshop is for educational purposes. Always ensure you have proper authorization before analyzing systems or logs that don't belong to you.
 
