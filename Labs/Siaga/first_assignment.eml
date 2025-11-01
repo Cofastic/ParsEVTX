@@ -1,0 +1,19 @@
+From: boss@attacker.com
+To: [REDACTED]@attacker.com
+Subject: Your First Assignment
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi [REDACTED],
+
+Welcome to the crew. Your first assignment is to hit the target we discussed. Follow standard procedure:
+
+1. Gain a foothold, any shell will do.
+2. Establish persistence so we can check later.
+3. Collect the event logs and send them back for verification.
+
+Remember, the logs are the key to proving you were there. Dont forget to clean up any test artifacts before you leave. We'll be watching the logs closely, so make sure your username shows up where it should.
+
+Regards,
+boss
