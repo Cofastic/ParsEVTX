@@ -1,0 +1,5 @@
+**EventIDs**
+
+Challenge Description:
+
+How many counts of PowerShell Script Block Logging events are recorded within the logs? 
